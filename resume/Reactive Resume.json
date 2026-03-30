@@ -1,0 +1,442 @@
+{
+  "picture": {
+    "hidden": false,
+    "url": "https://storage.rxresu.me/clp9fwawg5ioi9huno4odyqny/pictures/clp9fwawg5ioi9huno4odyqny.jpg",
+    "size": 200,
+    "rotation": 0,
+    "aspectRatio": 1,
+    "borderRadius": 100,
+    "borderColor": "rgba(0, 0, 0, 0)",
+    "borderWidth": 0,
+    "shadowColor": "rgba(0, 0, 0, 0.5)",
+    "shadowWidth": 0
+  },
+  "basics": {
+    "name": "Anwita Acharyya",
+    "headline": "Female, Married",
+    "email": "acharyya.anwita@gmail.com",
+    "phone": "+91 9874544105",
+    "location": "Marathalli, Bangalore",
+    "website": {
+      "url": "",
+      "label": ""
+    },
+    "customFields": [
+      {
+        "id": "e4x19qvsddiq21syo69n6bd7",
+        "icon": "envelope",
+        "text": "",
+        "link": ""
+      }
+    ]
+  },
+  "summary": {
+    "title": "Summary",
+    "columns": 1,
+    "hidden": false,
+    "content": "<p style=\"text-align: justify\">As an aspiring educator, I am eager to utilize my skills, knowledge, and passion to make a positive impact on the academic and personal growth of my students. With a strong educational background and a commitment to creating an engaging and inclusive learning environment, I am confident in my ability to inspire and motivate students to achieve their full potential.</p>"
+  },
+  "sections": {
+    "profiles": {
+      "title": "Profiles",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "xofhrth452n5nfgzizyeyf9o",
+          "hidden": false,
+          "icon": "linkedin",
+          "network": "Linkedin",
+          "username": "anwita-acharyya-04b152222",
+          "website": {
+            "url": "https://www.linkedin.com/in/anwita-acharyya-04b152222/",
+            "label": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "title": "Experience",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "o4pf25gqa5k0ihm3wmywa4ej",
+          "hidden": false,
+          "company": "SENATE PUBLIC SCHOOL",
+          "position": "Assistant Teacher",
+          "location": "Barrackpore",
+          "period": "August 2024- January 2025",
+          "website": {
+            "url": "",
+            "label": ""
+          },
+          "description": "<p><strong>Subject Teacher (Geography, History, Civics, Economics)</strong></p><ul><li><p>Taught classes VI-X, specializing in Geography</p></li><li><p>Designed lesson plans, conducted assessments, and promoted interactive learning</p></li></ul><p><strong>Class Teacher – Grade 8</strong></p><ul><li><p>Managed report cards and facilitated parent-school communication</p></li><li><p>Taught Social-Emotional Learning (SEL) and mentored students for holistic development</p></li></ul>",
+          "roles": []
+        },
+        {
+          "id": "unr464sqyowumt9elqhzvmg7",
+          "hidden": false,
+          "company": "SACRED HEART DAY HIGH SCHOOL",
+          "position": "Internship",
+          "location": "Barrackpore",
+          "period": "August 2023- December 2023",
+          "website": {
+            "url": "",
+            "label": ""
+          },
+          "description": "<p><strong>Teaching:</strong></p><ul><li><p>Geography, History, Political Science, Economics (VI-X)</p></li><li><p>Geography (XI-XII)</p></li></ul><p><strong>Events:</strong></p><ul><li><p>Organized school cricket tournament (2022-23)</p></li><li><p>Organized annual function</p></li></ul><p><strong>Skills:</strong></p><ul><li><p>Classroom management, curriculum development</p></li><li><p>Fun learning activities, leadership</p></li></ul>",
+          "roles": []
+        }
+      ]
+    },
+    "education": {
+      "title": "Education",
+      "columns": 2,
+      "hidden": false,
+      "items": [
+        {
+          "id": "b2nb7y3zx03uy04oo07a6q5l",
+          "hidden": false,
+          "school": "JIS University",
+          "degree": "B.Ed",
+          "area": "Geography",
+          "grade": "9.10 SGPA",
+          "location": "",
+          "period": "2022 -2024",
+          "website": {
+            "url": "",
+            "label": ""
+          },
+          "description": ""
+        },
+        {
+          "id": "mh3zcgk03lzs8p9zh0rrb77y",
+          "hidden": false,
+          "school": "West Bengal State University",
+          "degree": "M.Sc.",
+          "area": "Geography",
+          "grade": "72.08%",
+          "location": "",
+          "period": "2019 - 2021",
+          "website": {
+            "url": "",
+            "label": ""
+          },
+          "description": ""
+        },
+        {
+          "id": "z429alygeve2hbt3yx2540e2",
+          "hidden": false,
+          "school": "Calcutta University",
+          "degree": "B.Sc.",
+          "area": "Geography",
+          "grade": "49.62%",
+          "location": "",
+          "period": "2016 - 2019",
+          "website": {
+            "url": "",
+            "label": ""
+          },
+          "description": ""
+        },
+        {
+          "id": "ql0c3qefi4dh6peqgsvaia2f",
+          "hidden": false,
+          "school": "CBSE",
+          "degree": "Higher Secondary (XII)",
+          "area": "",
+          "grade": "73.60%",
+          "location": "",
+          "period": " 2014 - 2016",
+          "website": {
+            "url": "",
+            "label": ""
+          },
+          "description": "Humanities"
+        },
+        {
+          "id": "fy39rbchcv47xvippurc0nof",
+          "hidden": false,
+          "school": "CBSE",
+          "degree": "Higher Secondary (X)",
+          "area": "",
+          "grade": "79.8%",
+          "location": "",
+          "period": "2004 -2014",
+          "website": {
+            "url": "",
+            "label": ""
+          },
+          "description": ""
+        }
+      ]
+    },
+    "projects": {
+      "title": "Projects",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "ox3m35lh9k47ch65aaq6pujz",
+          "hidden": false,
+          "name": "•\tDISSERTATION ON “ Mortality scenario of West Bengal with special reference to infant mortality and child mortality”",
+          "period": " ",
+          "website": {
+            "url": "",
+            "label": ""
+          },
+          "description": "<p style=\"text-align: justify\">- Conducted secondary surveys and used GIS software to complete final year project on mortality scenario with emphasis on infant and child mortality. Presented dissertation via WebEx to key academic figures.\n</p>"
+        },
+        {
+          "id": "ezy2l0coktcbtantp858y5hv",
+          "hidden": false,
+          "name": "•\tDarjeeling and its socioeconomic impact on its population. ",
+          "period": " ",
+          "website": {
+            "url": "",
+            "label": ""
+          },
+          "description": "<p style=\"text-align: justify\">- Conducted a project on the socioeconomic impact of tourism in Darjeeling during my third year of graduation, utilizing GIS software, image interpretation techniques, and GPS survey.\n- Presented findings to Principal, HOD, and professors.</p>"
+        },
+        {
+          "id": "mbkjhbhb692ksimalcfqv6ao",
+          "hidden": false,
+          "name": "•\tDevelopment of Eco-tourism in West Bengal",
+          "period": " ",
+          "website": {
+            "url": "",
+            "label": ""
+          },
+          "description": "<p style=\"text-align: justify\">- Conducted primary and secondary surveys, and employed various tools and techniques, including GIS software, theodolite, GPS survey, and soil and water testing to complete first-year project on eco-tourism.</p>"
+        }
+      ]
+    },
+    "skills": {
+      "title": "Skills",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "twksibwz6hzr43ad5et9gbse",
+          "hidden": false,
+          "icon": "",
+          "name": "Classroom managment",
+          "proficiency": "",
+          "level": 5,
+          "keywords": []
+        },
+        {
+          "id": "h7li92z66hyjd8bi88hcd82x",
+          "hidden": false,
+          "icon": "",
+          "name": "Interpersonal skills",
+          "proficiency": "",
+          "level": 5,
+          "keywords": []
+        },
+        {
+          "id": "l3b4hq42iibp56zjaxqwx203",
+          "hidden": false,
+          "icon": "",
+          "name": "Curriculum development",
+          "proficiency": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "ocjtwd3av2q82dbw9xu1khw6",
+          "hidden": false,
+          "icon": "",
+          "name": "Organization of various events",
+          "proficiency": "",
+          "level": 5,
+          "keywords": []
+        }
+      ]
+    },
+    "languages": {
+      "title": "Languages",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "hbvgo78r2yin19rek2btx6cs",
+          "hidden": false,
+          "language": "English",
+          "fluency": " ",
+          "level": 5
+        },
+        {
+          "id": "baxifq8dn1axmvvnavnh79f2",
+          "hidden": false,
+          "language": "Hindi",
+          "fluency": " ",
+          "level": 5
+        }
+      ]
+    },
+    "interests": {
+      "title": "Interests",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "b3fg1i5q59yw347h7kfd1252",
+          "hidden": false,
+          "icon": "",
+          "name": "Drawing",
+          "keywords": []
+        },
+        {
+          "id": "k9mm20x72dpkde7nie1xmip2",
+          "hidden": false,
+          "icon": "",
+          "name": "Singing ",
+          "keywords": []
+        },
+        {
+          "id": "f7wzgxt2xd5drc4m1b9dcw9w",
+          "hidden": false,
+          "icon": "",
+          "name": "Travelling",
+          "keywords": []
+        }
+      ]
+    },
+    "awards": {
+      "title": "Awards",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "certifications": {
+      "title": "Certifications",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "publications": {
+      "title": "Publications",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "volunteer": {
+      "title": "Volunteering",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "aofbyupuzk8vu5ndnlaiz9nn",
+          "hidden": false,
+          "organization": "Sacred Heart Day High school",
+          "location": "",
+          "period": "August 2023- December 2023",
+          "website": {
+            "url": "",
+            "label": ""
+          },
+          "description": "<ul><li><p>Collection and distribution of necessities for the less fortunate</p></li></ul>"
+        },
+        {
+          "id": "sw3blcfunjxcbapjlp3vhlww",
+          "hidden": false,
+          "organization": "JIS University ",
+          "location": "Agarpara",
+          "period": "December 2023",
+          "website": {
+            "url": "",
+            "label": ""
+          },
+          "description": "<ul><li><p>Food drive for the less fortunate kids.</p></li></ul>"
+        }
+      ]
+    },
+    "references": {
+      "title": "References",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    }
+  },
+  "customSections": [],
+  "metadata": {
+    "template": "glalie",
+    "layout": {
+      "sidebarWidth": 35,
+      "pages": [
+        {
+          "fullWidth": false,
+          "main": [
+            "summary",
+            "education",
+            "experience"
+          ],
+          "sidebar": [
+            "profiles",
+            "skills",
+            "certifications",
+            "awards",
+            "publications",
+            "references",
+            "languages"
+          ]
+        },
+        {
+          "fullWidth": false,
+          "main": [
+            "projects",
+            "volunteer"
+          ],
+          "sidebar": [
+            "interests"
+          ]
+        }
+      ]
+    },
+    "css": {
+      "enabled": false,
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}"
+    },
+    "page": {
+      "gapX": 4,
+      "gapY": 6,
+      "marginX": 34,
+      "marginY": 34,
+      "format": "a4",
+      "locale": "en-US",
+      "hideIcons": false
+    },
+    "design": {
+      "level": {
+        "icon": "star",
+        "type": "circle"
+      },
+      "colors": {
+        "primary": "rgba(128, 161, 212, 1)",
+        "text": "rgba(0, 0, 0, 1)",
+        "background": "rgba(255, 255, 255, 1)"
+      }
+    },
+    "typography": {
+      "body": {
+        "fontFamily": "Open Sans",
+        "fontWeights": [
+          "400"
+        ],
+        "fontSize": 10.5,
+        "lineHeight": 1.5
+      },
+      "heading": {
+        "fontFamily": "Open Sans",
+        "fontWeights": [
+          "600"
+        ],
+        "fontSize": 13.5,
+        "lineHeight": 1.5
+      }
+    },
+    "notes": ""
+  }
+}
